@@ -6,7 +6,7 @@ Software Engineer
 
 * 🌍  I'm based in Ahmedabad
 * ✉️  You can contact me at [parekhpriyanka177@gmail.com](mailto:parekhpriyanka177@gmail.com)
-* 🚀  I'm currently working on [Experro](http://www.experro.com/)
+* 🚀  I'm currently working on [Bannerbuzz](http://www.bannerbuzz.com/) at commerce pundit
 * 🤝  I'm open to collaborating on Full Stack Development
 
 ### Skills
